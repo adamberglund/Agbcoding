@@ -1,0 +1,10 @@
+// L2 integer (b) variable initializatiom
+
+#include <stdio.h>
+
+int main(int argc, char *argv[])
+{
+	int integer = 1;
+	
+	printf("hello world");
+}
