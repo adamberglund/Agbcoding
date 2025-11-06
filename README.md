@@ -14,15 +14,28 @@ sql
 godot
 sdl
 
-c lessons
+c lessons {
 0 set up
 1 hello world
 2 int
 3 
 
+libraries:
 #include 
-#define
+<> standard?
+"" local
 
+constants:
+#define AAA 0
+        ^ naming convention
+
+naming conventions:
+lower_case?
+CamelCase
+camelCaseDefferred?
+UPPER_CASE?
+
+types:
 float
 long
 short
@@ -31,15 +44,63 @@ string
 null
 void
 
+routing?:
 if
 switch
 case
 break 
+
+loops:
 while 
 do
 for
 
 struct
+
+?:
+new
+return
+
+functions:
+printf();
+function prototypes
+type name(parameter1, parameter2);
+function definitions
+type name(parameter1, parameter2){
+   return;
+}
+
+
+delimiters?:
+"string"
+'c' character
+() ?
+{} scope?
+[] array?
+
+escape character \:
+\\
+\n newline
+\d
+\s
+\f
+\"
+\c
+
+comments:
+// inline
+
+/*
+block
+comment?
+*/
+
+data structure and algorithms?
+linked lists
+overloaded operators
+polymorphism
+
+}
 
 c++ lessons 
 class 
