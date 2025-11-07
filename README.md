@@ -58,6 +58,7 @@ for
 struct
 
 ?:
+this
 using
 namespace
 new
