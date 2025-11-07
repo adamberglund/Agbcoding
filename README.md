@@ -130,6 +130,7 @@ pointer arithmetic
 garbage
 trunkation
 type cast
+inline
 
 }
 
