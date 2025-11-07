@@ -131,5 +131,8 @@ pointer arithmetic
 }
 
 c++ lessons 
-class 
+class
+public
+private
+protected
 
