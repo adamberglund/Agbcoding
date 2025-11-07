@@ -127,6 +127,9 @@ overloaded operators
 polymorphism
 
 pointer arithmetic
+garbage
+trunkation
+type cast
 
 }
 
