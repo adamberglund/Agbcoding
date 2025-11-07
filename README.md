@@ -58,6 +58,8 @@ for
 struct
 
 ?:
+using
+namespace
 new
 return
 ;
