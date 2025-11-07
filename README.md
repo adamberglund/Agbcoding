@@ -60,9 +60,33 @@ struct
 ?:
 new
 return
+;
+
+comparitors?
+<
+>
+==
+!
+||
+&&
+<=
+>=
+
+operators
+=
++
+*
+/
+-
 
 functions:
-printf();
+malloc()
+free()
+tolower()
+toupper()
+stringcpy()?
+stringcmp()?
+printf()
 function prototypes
 type name(parameter1, parameter2);
 function definitions
@@ -99,6 +123,8 @@ data structure and algorithms?
 linked lists
 overloaded operators
 polymorphism
+
+pointer arithmetic
 
 }
 
