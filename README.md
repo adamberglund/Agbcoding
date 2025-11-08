@@ -140,4 +140,17 @@ class
 public
 private
 protected
+constructor
+deconstructor
+member function 
+friend function
+
+projects
+hw
+int
+echo
+print shape
+number guesser
+multiple choice quiz
+tic tak tow
 
