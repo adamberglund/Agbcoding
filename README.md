@@ -86,6 +86,7 @@ operators
 functions:
 malloc()
 free()
+exit() c++?
 tolower()
 toupper()
 stringcpy()?
