@@ -84,14 +84,22 @@ operators
 -
 
 functions:
+
+<stdlib>
 malloc()
 free()
 exit() c++?
+
 tolower()
 toupper()
-stringcpy()?
-stringcmp()?
+
+<string>
+strcpy()
+strcmp()
+
+<stdio>
 printf()
+
 function prototypes
 type name(parameter1, parameter2);
 function definitions
@@ -146,6 +154,10 @@ constructor
 deconstructor
 member function 
 friend function
+
+<iostream>
+cout
+cin
 
 projects
 hw
