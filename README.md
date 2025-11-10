@@ -151,7 +151,7 @@ public
 private
 protected
 constructor
-deconstructor
+destructor
 member function 
 friend function
 
@@ -167,4 +167,6 @@ print shape
 number guesser
 multiple choice quiz
 tic tak tow
+linked list
+scheduler
 
