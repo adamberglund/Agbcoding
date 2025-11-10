@@ -154,6 +154,7 @@ constructor
 destructor
 member function 
 friend function
+virtual
 
 <iostream>
 cout
