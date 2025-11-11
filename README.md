@@ -150,6 +150,8 @@ class
 public
 private
 protected
+child
+parrent
 constructor
 destructor
 member function 
