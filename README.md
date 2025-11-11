@@ -96,6 +96,7 @@ toupper()
 <string>
 strcpy()
 strcmp()
+strlen()?
 
 <stdio>
 printf()
