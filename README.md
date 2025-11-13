@@ -36,6 +36,9 @@ camelCaseDefferred?
 UPPER_CASE?
 
 types:
+unsigned
+long
+short
 float
 long
 short
